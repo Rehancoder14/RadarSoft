@@ -5,9 +5,9 @@ import 'package:radarsoft/core/theme/custom_text_style.dart';
 import 'package:radarsoft/core/theme/theme_helper.dart';
 import 'package:radarsoft/core/widgets/custom_elevated_button.dart';
 import 'package:radarsoft/core/widgets/custom_image_view.dart';
-import 'package:radarsoft/presentation/login_to_gathrr_screen/login_to_gathrr_screen.dart';
+import 'package:radarsoft/presentation/login_flow/view/login_to_gathrr_screen/login_to_gathrr_screen.dart';
 
-import '../../core/core/utils/size_utils.dart';
+import '../../../../core/core/utils/size_utils.dart';
 
 class OnboardingScreenOneScreen extends StatelessWidget {
   const OnboardingScreenOneScreen({Key? key})
