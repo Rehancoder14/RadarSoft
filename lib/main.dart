@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:radarsoft/core/theme/theme_helper.dart';
-import 'package:radarsoft/presentation/onboarding_screen_one_screen/onboarding_screen_one_screen.dart';
+import 'package:radarsoft/presentation/login_flow/view/splash%20_screen.dart/splash_screen.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
